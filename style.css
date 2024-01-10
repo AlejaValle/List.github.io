@@ -210,15 +210,11 @@ body {
     body{
         display: none;
     }
-    body-responsive{
-        display: block;
-    }
     body.responsive{
         display: block;
         position: absolute;
         right: 0;
         top: 75px;
-        background-color: #f08080;
         width: 180px;
     }
     body .responsive {
