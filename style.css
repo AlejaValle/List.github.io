@@ -205,19 +205,5 @@ body {
     .stroke:nth-child(7){
         animation-delay: 0s;
     }
-    /* SECCION RESPONSIVE */
-@media screen and (max-width:980px){
-    body{
-        display: none;
-    }
-    body.responsive{
-        display: block;
-        position: absolute;
-        right: 0;
-        top: 75px;
-        width: 180px;
-    }
-    body .responsive {
-        display: block !important;
-    
-}}
+ 
+
