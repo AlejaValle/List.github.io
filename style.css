@@ -221,11 +221,7 @@ body {
         background-color: #f08080;
         width: 180px;
     }
-    div .responsive class{
+    div .responsive {
         display: block !important;
-    }
-    div.responsive class{
-        border-bottom: 1px solid #fff;
-        padding: 10px 0;
-    }
+    
 }
