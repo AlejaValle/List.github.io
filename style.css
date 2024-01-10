@@ -207,13 +207,13 @@ body {
     }
     /* SECCION RESPONSIVE */
 @media screen and (max-width:980px){
-    div{
+    body{
         display: none;
     }
-    div-responsive{
+    body-responsive{
         display: block;
     }
-    div.responsive{
+    body.responsive{
         display: block;
         position: absolute;
         right: 0;
@@ -221,7 +221,7 @@ body {
         background-color: #f08080;
         width: 180px;
     }
-    div .responsive {
+    body .responsive {
         display: block !important;
     
 }
