@@ -3,5 +3,4 @@ Desarrollé un reproductor de música personalizado para probar mis habilidades,
 NO TENGO DERECHO DE AUTOR. 
 El reproductor permite pausar la canción, avanzar, pasar a la siguiente pista, reproducir nuevamente la canción seleccionada y también tiene la opción de reproducir aleatoriamente.
 
-https://alejavalle.github.io/List.github.io/
 
